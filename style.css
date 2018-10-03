@@ -1,0 +1,36 @@
+.ui.borderless.topmenu.menu {
+  font-family: Futura;
+  background-color: #d20f8c;
+  padding: 45px;
+}
+
+.topmenu-item {
+  color: white;
+}
+
+.world-smile-day {
+  text-align: center;
+  padding: 30px;
+  margin-left: 300px;
+  margin-right: 300px;
+}
+
+.ui.color1.button {
+  background-color: #d20f8c;
+  color: white;
+}
+
+.ui.color2.button {
+  background-color: white;
+  color: #d20f8c;
+}
+
+.footer {
+  background-color: #d20f8c;
+  color: white;
+}
+
+.copyright {
+  text-align: center;
+  padding: 30px;
+}
